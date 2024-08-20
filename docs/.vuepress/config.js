@@ -1,13 +1,13 @@
 module.exports = {
-  base: "/vue-fullpage-modal/",
+  base: "/vue2-fullpage-modal/",
   title: 'Fullpage Modal',
   themeConfig: {
-    logo: '/vue-fullpage-modal.svg',
+    logo: '/vue2-fullpage-modal.svg',
     nav: [
       { text: 'Getting Started', link: '/'},
       { text: 'Playground', link: '/playground/'},
       { text: 'Examples', link: '/examples/'},
-      { text: 'Github', link: 'https://github.com/medistream-team/vue-fullpage-modal'},
+      { text: 'Github', link: 'https://github.com/medistream-team/vue2-fullpage-modal'},
     ],
     sidebar: [
       '/',

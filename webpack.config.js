@@ -6,7 +6,7 @@ module.exports = {
   entry: './src/index.js',
   devtool: 'source-map',
   output: {
-    library: 'vue-fullpage-modal',
+    library: 'vue2-fullpage-modal',
     libraryTarget: 'umd',
     filename: 'FullpageModal.js',
     path: path.resolve(__dirname, 'dist'),

@@ -1,13 +1,13 @@
 # Getting Started
 ## Installation
 ```shell
-npm i vue-fullpage-modal
+npm i vue2-fullpage-modal
 ```
 ## How to Use
 ### plugin
 
 ```javascript
-import FullpageModal from 'vue-fullpage-modal'
+import FullpageModal from 'vue2-fullpage-modal'
 
 Vue.use(FullpageModal)
 ```

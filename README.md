@@ -1,15 +1,15 @@
 <p align="center">
-  <a href="https://github.com/medistream-team/vue-fullpage-modal" target="_blank">
-    <img width="150px" src="vue-fullpage-modal.svg" />
+  <a href="https://github.com/medistream-team/vue2-fullpage-modal" target="_blank">
+    <img width="150px" src="vue2-fullpage-modal.svg" />
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/medistream-team/vue-fullpage-modal" target="_blank">
-    <img width="320px" src="vue-fullpage-modal-label.png" />
+  <a href="https://github.com/medistream-team/vue2-fullpage-modal" target="_blank">
+    <img width="320px" src="vue2-fullpage-modal-label.png" />
   </a>
 </p>
 <p align="center">
-  <img alt="Version" src="https://img.shields.io/npm/v/vue-fullpage-modal?color=blue" />
+  <img alt="Version" src="https://img.shields.io/npm/v/vue2-fullpage-modal?color=blue" />
   <a href="#" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
@@ -25,12 +25,12 @@
 
 ## Documentation
 
-Checkout [Documentation📝](https://medistream-team.github.io/vue-fullpage-modal/)
+Checkout [Documentation📝](https://medistream-team.github.io/vue2-fullpage-modal/)
 
 ## Install
 
 ```sh
-npm install vue-fullpage-modal
+npm install vue2-fullpage-modal
 ```
 
 ## Usage
@@ -38,7 +38,7 @@ npm install vue-fullpage-modal
 ### Plugin
 
 ```javascript
-import FullpageModal from 'vue-fullpage-modal'
+import FullpageModal from 'vue2-fullpage-modal'
 
 Vue.use(FullpageModal)
 ```
@@ -78,7 +78,7 @@ export default {
 ## 📝 License
 
 Copyright © 2021 [Medistream](https://github.com/medistream-team)<br />
-This project is [MIT](https://github.com/medistream-team/vue-fullpage-modal/blob/master/LICENSE) licensed.
+This project is [MIT](https://github.com/medistream-team/vue2-fullpage-modal/blob/master/LICENSE) licensed.
 
 
 <!-- ***
